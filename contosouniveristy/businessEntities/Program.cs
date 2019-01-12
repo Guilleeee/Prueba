@@ -10,7 +10,7 @@ namespace businessEntities
     {
         static void Main(string[] args)
         {
-
+            //Prueba2
         }
     }
 }
